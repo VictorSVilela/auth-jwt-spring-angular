@@ -11,8 +11,8 @@
 	<groupId>com.dev-vilela</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>book-network-api</name>
-	<description>Spring Boot project for book social network</description>
+	<name>backend-api</name>
+	<description>Spring Boot project for JWT authentication</description>
 	<url/>
 	<licenses>
 		<license/>
