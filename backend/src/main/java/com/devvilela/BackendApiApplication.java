@@ -12,10 +12,10 @@ import org.springframework.scheduling.annotation.EnableAsync;
 @SpringBootApplication
 @EnableJpaAuditing
 @EnableAsync
-public class BookNetworkApiApplication {
+public class BackendApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BookNetworkApiApplication.class, args);
+		SpringApplication.run(BackendApiApplication.class, args);
 	}
 
 	@Bean

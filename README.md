@@ -1,1 +1,1 @@
-# book-social-network
+# Authentication with JWT and Spring
