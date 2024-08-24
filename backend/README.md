@@ -44,5 +44,5 @@ This directory contains the backend of the authentication project, developed wit
 - **/api/auth/activate-account**: Code verification.
 
 ## Documentation
-- **Swagger UI**: http://localhost:8080/swagger-ui.html
-- **OpenAPI**: http://localhost:8080/v3/api-docs
+- **Swagger UI**: http://localhost:8088/swagger-ui.html
+- **OpenAPI**: http://localhost:8088/v3/api-docs
