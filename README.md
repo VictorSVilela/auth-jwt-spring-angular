@@ -33,7 +33,7 @@ This project provides a user authentication system using JWT, including user reg
 
 ## How to Run
 
-To get started with the Book Social Network project, follow the setup instructions in the respective directories:
+To get started with thi project, follow the setup instructions in the respective directories:
 
 - [Backend Setup Instructions](/backend/README.md)
 - [Frontend Setup Instructions](/frontend//README.md)
