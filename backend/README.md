@@ -31,7 +31,7 @@ This directory contains the backend of the authentication project, developed wit
    ```bash
    ./mvnw spring-boot:run
 
-4. Access the Swagger UI documentation at http://localhost:8080/swagger-ui.html.
+4. Access the Swagger UI documentation at http://localhost:8088/swagger-ui.html.
 
 ## Docker Services
 
