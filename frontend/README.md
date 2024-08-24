@@ -1,27 +1,43 @@
-# Frontend
+# Frontend - Authentication Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+This directory contains the frontend of the authentication project, developed with Angular.
 
-## Development server
+## Technologies Used
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular**: Main framework for developing the frontend.
+- **Component-Based Architecture**: Modular organization of the code.
+- **Bootstrap**: For responsive design and styling.
 
-## Code scaffolding
+## Requirements
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Node.js 16+**
+- **Angular CLI**
 
-## Build
+## Setup and Execution
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   
+2. Install dependencies:
+   ```bash
+   npm install
 
-## Running unit tests
+3. Run the application:
+   ```bash
+   ng serve
+   
+4. Access the application in your browser at http://localhost:4200.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Project Structure
+- **src/app/pages**: Contains the main components of the application which are login, register and activate-account.
+- **src/app/services**: Contains all the services to authenticate and validate users.
 
-## Running end-to-end tests
+## Features
+- **User Login**: Allows users to log in and receive a JWT token.
+- **User Registration**: Allows new users to create an account.
+- **Code Verification**: Supports verifying a code as part of the authentication process.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
