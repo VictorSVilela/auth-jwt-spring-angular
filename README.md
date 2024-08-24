@@ -54,8 +54,8 @@ To get started with this project, follow the setup instructions in the respectiv
 
 ## Documentation
 
-- **Swagger UI**: The backend documentation can be accessed at http://localhost:8080/swagger-ui.html after starting the backend.
-- **OpenAPI**: The OpenAPI specification can be accessed at http://localhost:8080/v3/api-docs.
+- **Swagger UI**: The backend documentation can be accessed at http://localhost:8088/swagger-ui.html after starting the backend.
+- **OpenAPI**: The OpenAPI specification can be accessed at http://localhost:8088/v3/api-docs.
 
 ## Contributors
 
